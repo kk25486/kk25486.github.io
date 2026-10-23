@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KK">
+  <rect width="64" height="64" rx="16" fill="#14171c"/>
+  <g fill="#f8f8f7" font-family="'Noto Serif TC', serif" font-weight="700" font-size="24" letter-spacing="2">
+    <text x="16" y="39">K</text>
+    <text x="34" y="39">K</text>
+  </g>
+</svg>
